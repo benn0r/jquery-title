@@ -1,4 +1,4 @@
 ### Sample Usage
-Init plugin with `$(document).title('init')`
-`$(document).title('append', ' bar')` results in `title bar`
-`$(document).title('reset')` results in `title`
+Init plugin with `$(document).title('init')`.
+After that run `$(document).title('append', ' bar')`, that results in `title bar`. 
+Now you can run `$(document).title('reset')` to reset your title to `title`.
